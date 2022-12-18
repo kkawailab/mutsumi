@@ -1,6 +1,6 @@
 header{
   height: 60px;
-  background-color: #000;
+  background-color: #fc6f92;
 }
 
 .first-block {
@@ -15,10 +15,10 @@ header{
 
 .third-block {
   height: 500px;
-  background-color: #f05f40;
+  background-color: #F5A9BC;
 }
 
 footer{
   height: 50px;
-  background-color: #000;
+  background-color: #fc6f92;
 }
