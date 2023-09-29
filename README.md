@@ -4,3 +4,6 @@
 
 - [SNSまとめ](https://potofu.me/arimuu142)
 - [NAPBIZブログ](https://arimuu.nbblog.jp/)
+
+---
+[![instagramアイコン](IMG_instagram.jpg)](https://www.instagram.com/arimuu_142/)
